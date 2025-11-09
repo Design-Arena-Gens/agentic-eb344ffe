@@ -1,0 +1,17 @@
+{
+  "name": "agentic-eb344ffe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cinematic Bengali story: balcony child, hawk, cat, mother (Next.js)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.2.33",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
